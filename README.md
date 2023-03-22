@@ -9,14 +9,19 @@
     <h3> Languages and Tools</h3>
     <h5>Intermediate</h5>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" alt="">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" alt="">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" alt="">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" alt="">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" alt="">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" alt="">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" alt="">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" alt="">
+        <img src="https://github.com/camoreno13/camoreno13/blob/main/icon/Angular.png" width="100" alt="">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" alt="">
     </div>
     <h5>Basic </h5>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="" width="50">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="" width="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="" width="50">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="" width="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="" width="40">
     </div>
 </div>
 
